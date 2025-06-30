@@ -1,7 +1,5 @@
 # Underground theme for the KSyntaxHighlighting engine
-KSyntaxHighlighting port of Underground, *the dark theme carefully crafted from scratch, which utilizes calm colors on a neutral dark background*.
-
-Original theme for Zed Editor can be found [here](https://github.com/i-amdroid/zed-underground-theme).
+[KSyntaxHighlighting](https://api.kde.org/frameworks/syntax-highlighting/html/index.html) port of [Underground](https://github.com/i-amdroid/zed-underground-theme), *the dark Zed Editor theme carefully crafted from scratch, which utilizes calm colors on a neutral dark background*.
 
 ## Screenshot
 ![underground-screenshot](underground_screenshot.png)
