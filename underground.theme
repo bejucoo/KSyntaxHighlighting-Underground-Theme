@@ -1,0 +1,170 @@
+{
+    "_comments": [
+        "Last update: June 29, 2025",
+        "This file has been converted from: https://github.com/i-amdroid/zed-underground-theme"
+    ],
+    "metadata": {
+        "name": "underground",
+        "revision": 1
+    },
+    "editor-colors": {
+        "BackgroundColor": "#161616",
+        "BracketMatching": "#363636",
+        "CodeFolding": "#00363636",
+        "CurrentLine": "#1a1a1a",
+        "CurrentLineNumber": "#d8d8d8",
+        "IconBorder": "#1a1a1a",
+        "IndentationLine": "#1a1a1a",
+        "LineNumbers": "#696969",
+        "MarkBookmark": "#00a0b0b8",
+        "MarkBreakpointActive": "#00000000",
+        "MarkBreakpointDisabled": "#00000000",
+        "MarkBreakpointReached": "#00000000",
+        "MarkError": "#00000000",
+        "MarkExecution": "#00000000",
+        "MarkWarning": "#00000000",
+        "ModifiedLines": "#00f0d07b",
+        "ReplaceHighlight": "#00695524",
+        "SavedLines": "#00a1b46a",
+        "SearchHighlight": "#695524",
+        "Separator": "#00282828",
+        "SpellChecking": "#d78870",
+        "TabMarker": "#00000000",
+        "TemplateBackground": "#001a1a1a",
+        "TemplateFocusedPlaceholder": "#00a1b46a",
+        "TemplatePlaceholder": "#00696969",
+        "TemplateReadOnlyPlaceholder": "#00d78870",
+        "TextSelection": "#363636",
+        "WordWrapMarker": "#00363636"
+    },
+    "text-styles": {
+        "Alert": {
+            "selected-text-color": "#f4a78e",
+            "text-color": "#d78870"
+        },
+        "Annotation": {
+            "selected-text-color": "#ffe7a0",
+            "text-color": "#f0d07b"
+        },
+        "Attribute": {
+            "selected-text-color": "#ffe7a0",
+            "text-color": "#f0d07b"
+        },
+        "BaseN": {
+            "selected-text-color": "#f4a78e",
+            "text-color": "#d78870"
+        },
+        "BuiltIn": {
+            "selected-text-color": "#ffe7a0",
+            "text-color": "#f0d07b"
+        },
+        "Char": {
+            "selected-text-color": "#ffffff",
+            "text-color": "#f1f1f1"
+        },
+        "Comment": {
+            "selected-text-color": "#969696",
+            "text-color": "#696969"
+        },
+        "CommentVar": {
+            "selected-text-color": "#969696",
+            "text-color": "#696969"
+        },
+        "Constant": {
+            "selected-text-color": "#ffbf61",
+            "text-color": "#e8a43c"
+        },
+        "ControlFlow": {
+            "bold": true,
+            "selected-text-color": "#ffbf61",
+            "text-color": "#e8a43c"
+        },
+        "DataType": {
+            "selected-text-color": "#b9ccd5",
+            "text-color": "#a0b0b8"
+        },
+        "DecVal": {
+            "selected-text-color": "#f4a78e",
+            "text-color": "#d78870"
+        },
+        "Documentation": {
+            "selected-text-color": "#969696",
+            "text-color": "#696969"
+        },
+        "Error": {
+            "selected-text-color": "#ff7b90",
+            "text-color": "#ff5370",
+            "underline": true
+        },
+        "Extension": {
+            "selected-text-color": "#ffe7a0",
+            "text-color": "#f0d07b"
+        },
+        "Float": {
+            "selected-text-color": "#f4a78e",
+            "text-color": "#d78870"
+        },
+        "Function": {
+            "selected-text-color": "#ffe7a0",
+            "text-color": "#f0d07b"
+        },
+        "Import": {
+            "selected-text-color": "#ffbf61",
+            "text-color": "#e8a43c"
+        },
+        "Information": {
+            "selected-text-color": "#a2deff",
+            "text-color": "#8ec2e0"
+        },
+        "Keyword": {
+            "bold": true,
+            "selected-text-color": "#ffbf61",
+            "text-color": "#e8a43c"
+        },
+        "Normal": {
+            "selected-text-color": "#ffffff",
+            "text-color": "#f1f1f1"
+        },
+        "Operator": {
+            "selected-text-color": "#eaeaea",
+            "text-color": "#d8d8d8"
+        },
+        "Others": {
+            "selected-text-color": "#ffffff",
+            "text-color": "#f1f1f1"
+        },
+        "Preprocessor": {
+            "selected-text-color": "#a2deff",
+            "text-color": "#8ec2e0"
+        },
+        "RegionMarker": {
+            "selected-text-color": "#969696",
+            "text-color": "#696969"
+        },
+        "SpecialChar": {
+            "italic": true,
+            "selected-text-color": "#ffffff",
+            "text-color": "#f1f1f1"
+        },
+        "SpecialString": {
+            "selected-text-color": "#f4a78e",
+            "text-color": "#d78870"
+        },
+        "String": {
+            "selected-text-color": "#c5db90",
+            "text-color": "#a1b46a"
+        },
+        "Variable": {
+            "selected-text-color": "#a2deff",
+            "text-color": "#8ec2e0"
+        },
+        "VerbatimString": {
+            "selected-text-color": "#c5db90",
+            "text-color": "#a1b46a"
+        },
+        "Warning": {
+            "selected-text-color": "#ffbf61",
+            "text-color": "#e8a43c"
+        }
+    }
+}
